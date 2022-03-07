@@ -15,4 +15,4 @@ jobs:
         with:
            user_name: sdon2
            text: SARAVANA
-      - uses: jasineri/simple-push-action@v1
+      - uses: sdon2/simple-push-action@v1
