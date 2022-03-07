@@ -3,7 +3,7 @@
 gitartwork on user's contribution graph, make a SVG image of it and finally push it back to your repository.
 
 An example result:
-[![jasineri/gitartwork](gitartwork.svg)](https://github.com/jasineri/gitartwork)
+[![sdon2/gitartwork](gitartwork.svg)](https://github.com/sdon2/gitartwork)
 
 ## Usage:
 
