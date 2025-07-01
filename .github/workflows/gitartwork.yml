@@ -9,6 +9,6 @@ jobs:
       - uses: actions/checkout@v3
       - uses: jasineri/gitartwork@v1
         with:
-           user_name: jasineri
-           text: JASINERI
+           user_name: sdon2
+           text: SARAVANA
       - uses: jasineri/simple-push-action@v1
